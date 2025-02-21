@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713204631 source:c:\users\luisg\desktop\lg7\facul\algoritmosii\trabalhotestes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1713205163 source:c:\users\luisg\desktop\lg7\facul\algoritmosii\trabalhofinal_caetano_luisgustavo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
